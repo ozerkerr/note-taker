@@ -14,7 +14,7 @@
 ## Notes : 
 
 ### Enter new note
-* When the User enters a new note title and the note’s text
+* When the User enters a new note title and the note’s text,
 a Save icon appears in the navigation at the top of the page.
 
 ![New Note](./public/assets/images/Enter%20new%20note.png "New Note")
